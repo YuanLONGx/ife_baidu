@@ -1,0 +1,18 @@
+h1{color: blue;}
+h2{font-size: 14px;}
+p {font-size: 20px;font-family:"Times New Roman",Georgia,Serif;}
+img{border: 2px solid red;}
+.show{text-indent: 24px;text-transform: lowercase;text-decoration: blink;text-align: center;}
+
+#Lbar {width: 200px;height:600px;background-color: red;float: left;margin-right: -100%;}
+#content {float: left;width: 100%;}
+#Rbar {height:600px;background-color: green;margin-left: 220px;}
+
+
+#leftb{width: 200px;height: 400px;background: red;position: absolute;left: 0;}
+#middleb{height: 400px;background: orange;margin: 0 220px;}
+#rightb{width: 200px;height: 400px;background: blue;position: absolute;right: 0;}
+
+#div7{margin-top: 10px;height: 300px;background: red;width: 40%;}
+#div7-a{list-style: none;}
+#div7-a li{width: 60px;height: 40px;background: blue;float: left;margin:10px 20px;}
